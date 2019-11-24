@@ -10,6 +10,15 @@ For the sake of simplicity and easy to run, I have used H2 in-memory Database. T
 
 Your local system mush have JDK1.8
 
+### REST API
+
+There are four Rest-end points for this application. The context-path is set as "/". Hence for home page, kindly access http://localhost:8080
+
+* To insert a new employee - http://localhost:8080/api/employee - POST method
+* To update an existing employee - https://localhost:8080/api/employee/{id} - PUT method
+* To delete an existing employee - https://localhost:8080/api/employee/{id} - DELETE method
+* To fetch all employees - http://localhost:8080/api/employee - GET method
+
 
 ## Built With
 
