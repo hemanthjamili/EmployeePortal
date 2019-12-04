@@ -1,6 +1,6 @@
 # Employee Portal
 
-This is an Employee Portal developed as part of Hiring Process for Societe Generale. Technologies used are J2EE, Spring Boot, Hibernates, AngularJS, HTML, CSS.
+This is an Employee Portal developed to illustrate basic CRUD operations and offered an Restful web-application. Technologies used are J2EE, Spring Boot, Hibernates, AngularJS, HTML, CSS.
 
 ## Getting Started
 
